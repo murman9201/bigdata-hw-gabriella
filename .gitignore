@@ -1,0 +1,16 @@
+*.class
+.project
+.claspath
+.mvn
+.settings
+target
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+/bin/
+.classpath
+.springBeans
+password.txt
